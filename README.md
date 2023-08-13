@@ -13,7 +13,7 @@ npm run dev
 ```
 and
 ```sh
-npm run dev
+npm run build
 ```
 
 
