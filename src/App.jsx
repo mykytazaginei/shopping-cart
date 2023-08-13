@@ -12,9 +12,11 @@ function App() {
     dispatch(calculateeTotals());
   }, [cartItems]);
 
-   return (
+  const { isOpen } = useSelector((store) => store.modal);
+
+  return (
     <main>
-      <Modal/>
+      {isOpen && <Modal />}
       <NavBar />
       <CartContainer />
     </main>
