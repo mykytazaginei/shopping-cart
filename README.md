@@ -5,16 +5,11 @@ Welcome to the **shopping-cart** repository! This project was bootstrapped using
 
 ## Getting Started
 ```sh
-npm install
-```
-then
-```sh
+npm install 
+
 npm run dev
 ```
-and
-```sh
-npm run build
-```
+i will add a screenshot
 
 
 
