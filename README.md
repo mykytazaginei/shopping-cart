@@ -9,7 +9,10 @@ npm install
 
 npm run dev
 ```
-i will add a screenshot
+
+### Screenshot of project 
+
+![ScreenShot](https://github.com/mykytazaginei/shopping-cart/blob/main/src/img/screenshot.png)
 
 
 
